@@ -17,10 +17,12 @@
 
 <br>
 
-- A passionate self-taught software developer
-- Currently learning HTML5, CSS3 & JavaScript
-- LinkedIn profile [link](https://www.linkedin.com/in/rakshith-sp-30a628159/)
-- I’m currently open for an internship or a job opportunity. You can find [my resume](https://drive.google.com/drive/folders/11WkS0Dkn60REQ5eqhgbuoWfhKFaneiip?usp=share_link) here
+- I'm a passionate self-taught software developer.
+- A Bachelor's of Engineering (B.E) graduate.
+- Currently open for an internship or a job opportunity. You can find my [resume](https://drive.google.com/drive/folders/11WkS0Dkn60REQ5eqhgbuoWfhKFaneiip?usp=share_link) here.
+- [LinkedIn profile.](https://www.linkedin.com/in/rakshith-sp-30a628159/)
+- Currently learning HTML5, CSS3 & JavaScript.
+- Solving [Leetcode](https://leetcode.com/RAKSHITH_SP/) in spare time.
 
 <br><br>
 
