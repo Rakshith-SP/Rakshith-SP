@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"
     ><img
-      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&#128591;++;Self-taught+Software+Developer;Newbie,Active+Learner,;Love+to+learn+new+stuffs..<3"
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste...&#128591;++;Self-taught+Software+Developer;Newbie, Active+Learner;Always+love+to+learn+new+stuff"
   /></a>
 </p>
 
@@ -134,19 +134,4 @@ resume](https://drive.google.com/file/d/1pF_4SERN2vwm3DYBvGAeLOdV8lq5X1gp/view)
 
 <br />
 
-Credit: [Rakshith S P](https://github.com/Rakshith-SP) Last Edited on:
-30/03/2023
 
-
-
-
-- 👋 Hi, I’m @Rakshith-SP
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Rakshith-SP/Rakshith-SP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
