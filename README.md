@@ -13,16 +13,24 @@
 	
 ## <picture><img src = "https://github.com/Rakshith-SP/Rakshith-SP/blob/main/main/assets/images/programmer.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/Rakshith-SP/Rakshith-SP/blob/main/main/assets/images/animation_right.gif" width = 300px></picture>
+<picture> <img align="right" src="https://github.com/Rakshith-SP/Rakshith-SP/blob/main/main/assets/images/animation_right.gif" width = 400px></picture>
 
 <br>
 
 - I'm a passionate self-taught software developer.
+
 - A Bachelor's of Engineering (B.E) graduate.
-- Currently open for an internship or a job opportunity. You can find my [resume](https://drive.google.com/drive/folders/11WkS0Dkn60REQ5eqhgbuoWfhKFaneiip?usp=share_link) here.
-- [LinkedIn profile.](https://www.linkedin.com/in/rakshith-sp-30a628159/)
+
 - Have 3-month internship experience.
+
+- Currently open for a job opportunity or an internship. You can find my [resume](https://drive.google.com/drive/folders/11WkS0Dkn60REQ5eqhgbuoWfhKFaneiip?usp=share_link) here.
+
+- [LinkedIn profile.](https://www.linkedin.com/in/rakshith-sp-30a628159/)
+
 - Currently learning HTML5, CSS3 & JavaScript.
+
+- My projects include implementing data structures from scratch and search & sort algorithms in java. Two games in python - Tic Tac Toe and Black Jack
+
 - Solving [Leetcode](https://leetcode.com/RAKSHITH_SP/) in spare time.
 
 <br><br>
