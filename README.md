@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Rakshith S P </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Namaste..&#128591;++;Self-taught+Software+Developer;Newbie, Active+Learner;Always+Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello...++;Self-taught+Software+Developer;Newbie+at+coding;Active+Learner;Always+Love+to+learn+new+stuffs.."></a>
 </p>
 
 
@@ -13,11 +13,11 @@
 	
 ## <picture><img src = "https://github.com/Rakshith-SP/Rakshith-SP/blob/main/main/assets/images/programmer.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/Rakshith-SP/Rakshith-SP/blob/main/main/assets/images/animation_right.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Rakshith-SP/Rakshith-SP/blob/main/main/assets/images/animation_right.gif" width = 350px></picture>
 
 <br>
 
-- A passionate Self-taught Softwarre developer - Currently learning HTML5 & CSS#
+- A passionate Self-taught Softwarre developer - Currently learning HTML5 & CSS3
 - LinkedIn profile [link](https://www.linkedin.com/in/rakshith-sp-30a628159/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1pF_4SERN2vwm3DYBvGAeLOdV8lq5X1gp/view)
 
@@ -99,16 +99,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-
----
-
 <br>
 
 Credit: [Rakshith S P](https://github.com/Rakshith-SP)
