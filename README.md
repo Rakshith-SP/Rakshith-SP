@@ -20,7 +20,7 @@
 - A passionate self-taught software developer
 - Currently learning HTML5, CSS3 & JavaScript
 - LinkedIn profile [link](https://www.linkedin.com/in/rakshith-sp-30a628159/)
-- I’m currently open for an internship or a job opportunity. You can find [my resume](https://drive.google.com/file/d/1pF_4SERN2vwm3DYBvGAeLOdV8lq5X1gp/view) here
+- I’m currently open for an internship or a job opportunity. You can find [my resume](https://drive.google.com/drive/folders/11WkS0Dkn60REQ5eqhgbuoWfhKFaneiip?usp=share_link) here
 
 <br><br>
 
