@@ -21,15 +21,18 @@
 
 - A Bachelor's of Engineering (B.E) graduate.
 
-- Have 3-month internship experience.
+- Have 3-month internship and 3-month training experience.
 
 - Currently open for a job opportunity or an internship. You can find my [resume](https://drive.google.com/drive/folders/11WkS0Dkn60REQ5eqhgbuoWfhKFaneiip?usp=share_link) here.
 
 - [LinkedIn profile.](https://www.linkedin.com/in/rakshith-sp-30a628159/)
 
-- Currently learning HTML5, CSS3 & JavaScript.
+- Currently learning React JS.
 
-- My projects include implementing data structures from scratch and search & sort algorithms in java. Two games in python - Tic Tac Toe and Black Jack
+- My projects include
+	- Implementing data structures & algorithms in java from scratch.
+ 	- Two games in python - Tic Tac Toe and Black Jack
+  	- Static responsive web page.
 
 - Solving [Leetcode](https://leetcode.com/RAKSHITH_SP/) in spare time.
 
